@@ -7,3 +7,4 @@ remote
 remote1
 remote2
 local1
+local2
