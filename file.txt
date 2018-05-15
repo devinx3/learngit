@@ -5,3 +5,4 @@ add string
 local
 remote
 remote1
+remote2
